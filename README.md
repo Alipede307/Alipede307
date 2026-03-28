@@ -1,7 +1,7 @@
 
-## Hey There✌️
-# I’m Alipede, a software engineer based in VietNam.
-# I designed and build whatever I can imagine :)
+- Hey There✌️
+ - I’m Alipede, a software engineer based in VietNam.
+ I designed and build whatever I can imagine :)
 My main tech is Python, JavaScript, and C++. My favourite tool is Apple Note, and Procreate on my iPad. 
 Fun facts:
 •	I have a dog.
