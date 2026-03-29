@@ -12,7 +12,7 @@ Fun facts:
 
 •	Spider-Man is my favourite superhero.
 
-• Hobbies: Badmintion, building thing, watching movies and films.
+• Hobbies: Badminton, building thing, watching movies and films.
 
 
 <!--
