@@ -14,6 +14,9 @@ Fun facts:
 
 • Hobbies: Badminton, building thing, watching movies and films.
 
+📫 How to reach me: dinphuoc23@gmail.com
+
+
 
 <!--
 **Alipede307/Alipede307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
